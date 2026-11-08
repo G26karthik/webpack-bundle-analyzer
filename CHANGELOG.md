@@ -1,5 +1,11 @@
 # Changelog
 
+## 5.4.3
+
+### Patch Changes
+
+- Count module and folder parsed sizes in UTF-8 bytes instead of UTF-16 code units, using the same units as asset parsed size and compressed sizes. (by [@PerryLink](https://github.com/PerryLink) in [#750](https://github.com/webpack/webpack-bundle-analyzer/pull/750))
+
 ## 5.4.2
 
 ### Patch Changes
